@@ -32,7 +32,22 @@
                 <div class="jumbotron">
   <h1 class="display-3">INSTRUCCIONES</h1>
   <hr class="my-4">
-  <p>It uses utility classes for typography and spacing to space content out within the larger container.</p>
+  <p>
+    <ul>
+    <li>
+        Descargar el paquete de bootstrap: <a href="https://getbootstrap.com/docs/4.1/getting-started/download/">https://getbootstrap.com/docs/4.1/getting-started/download/</a>. 
+    </li>
+     <li>
+       Descargar jquery: <a href="https://jquery.com/download/">https://jquery.com/download/</a>. 
+    </li>
+     <li>
+       Descomprimir el zip de bootstrap y agregar el archivo de jquery en la carpeta del proyecto.
+    </li>
+    <li>
+        Agregar las referencias de bootstrap y jquery al proyecto que estas trabajando.
+    </li>
+    </ul>
+  </p>
 </div>
 
 
