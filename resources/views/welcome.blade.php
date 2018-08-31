@@ -128,7 +128,25 @@ Utiliza las clases de bootrap a los componentes html de tu sitio. El siguiente l
 <div class="jumbotron">
   <h1 class="display-3">CONSTRUCCION</h1>
   <hr class="my-4">
-  <p>It uses utility classes for typography and spacing to space content out within the larger container.</p>
+  <p>
+  <center><h1>Tutorial Basico para usar bootstrap</h1></center><br>
+  1. Descargar Bootstrap en la pagina oficial <br>
+  
+  2.  Descagar JQuery de su pagina oficial <br>
+
+  3.  Descomprimir Bootstap<br>
+
+  4.  Agregar JQuery<br>
+  
+  5.  Copiar carpetas de bootstrap en una carpeta
+  
+  6.  Crear archivo html
+  
+  7.  Colocar referencias a Bootstrap
+
+  
+  
+  </p>
 </div>
 
 
