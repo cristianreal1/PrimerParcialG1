@@ -20,6 +20,19 @@
                 </div>
               </div>
           <br />
+          
+          <div class="alert alert-dismissible alert-warning">
+          <button type="button" class="close" data-dismiss="alert">&times;</button>
+           <h4 class="alert-heading">GRUPO1!</h4>
+         <p class="mb-0">Integrantes:</p>
+         <p class="mb-0">201503733 Daniel Eduardo García Paiz</p>
+         <p class="mb-0">201314285 Jorge Javier Veliz Florian</p>
+         <p class="mb-0">201513700 Christian Adolfo Real Ixcayau</p>
+         <p class="mb-0">2010221245 ERIK LEONEL FLORES PEREZ </p>
+         <p class="mb-0">201213062 Monica Raquel Calderon Muñoz </p>
+         <p class="mb-0">201403981 Luis Omar Solares Morales </p>
+        </div>
+          
           <br />
           <div class="progress">
   <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 75%"></div>
@@ -128,7 +141,25 @@ Utiliza las clases de bootrap a los componentes html de tu sitio. El siguiente l
 <div class="jumbotron">
   <h1 class="display-3">CONSTRUCCION</h1>
   <hr class="my-4">
-  <p>It uses utility classes for typography and spacing to space content out within the larger container.</p>
+  <p>
+  <center><h1>Tutorial Basico para usar bootstrap</h1></center><br>
+  1. Descargar Bootstrap en la pagina oficial <br>
+  
+  2.  Descagar JQuery de su pagina oficial <br>
+
+  3.  Descomprimir Bootstap<br>
+
+  4.  Agregar JQuery<br>
+  
+  5.  Copiar carpetas de bootstrap en una carpeta
+  
+  6.  Crear archivo html
+  
+  7.  Colocar referencias a Bootstrap
+
+  
+  
+  </p>
 </div>
 
 
@@ -136,7 +167,7 @@ Utiliza las clases de bootrap a los componentes html de tu sitio. El siguiente l
 <div class="jumbotron">
   <h1 class="display-3">CONSTRUCCION</h1>
   <hr class="my-4">
-  <p>It uses utility classes for typography and spacing to space content out within the larger container.</p>
+  <p>Se agregan links de ayuda para el modulo de utilidades, tanto videos como documentacion</p>
 </div>
 
 
