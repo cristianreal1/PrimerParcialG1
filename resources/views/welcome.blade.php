@@ -54,7 +54,73 @@
 <div class="jumbotron">
   <h1 class="display-3">CONSTRUCCION</h1>
   <hr class="my-4">
-  <p>It uses utility classes for typography and spacing to space content out within the larger container.</p>
+  <p>
+      <ul>
+    <li>
+        Instala bootstrap.
+    </li>
+     <li>
+        Agrega las referencias al archivo.
+    </li>
+     <li>
+Utiliza las clases de bootrap a los componentes html de tu sitio. El siguiente listado ejemplifica las principales clases.
+    <ul>
+    <li>
+            <a href="/docs/4.1/utilities/borders/">
+              Borders
+            </a></li><li>
+            <a href="/docs/4.1/utilities/clearfix/">
+              Clearfix
+            </a></li><li>
+            <a href="/docs/4.1/utilities/close-icon/">
+              Close icon
+            </a></li><li>
+            <a href="/docs/4.1/utilities/colors/">
+              Colors
+            </a></li><li>
+            <a href="/docs/4.1/utilities/display/">
+              Display
+            </a></li><li>
+            <a href="/docs/4.1/utilities/embed/">
+              Embed
+            </a></li><li>
+            <a href="/docs/4.1/utilities/flex/">
+              Flex
+            </a></li><li>
+            <a href="/docs/4.1/utilities/float/">
+              Float
+            </a></li><li>
+            <a href="/docs/4.1/utilities/image-replacement/">
+              Image replacement
+            </a></li><li>
+            <a href="/docs/4.1/utilities/position/">
+              Position
+            </a></li><li>
+            <a href="/docs/4.1/utilities/screenreaders/">
+              Screenreaders
+            </a></li><li>
+            <a href="/docs/4.1/utilities/shadows/">
+              Shadows
+            </a></li><li>
+            <a href="/docs/4.1/utilities/sizing/">
+              Sizing
+            </a></li><li>
+            <a href="/docs/4.1/utilities/spacing/">
+              Spacing
+            </a></li><li>
+            <a href="/docs/4.1/utilities/text/">
+              Text
+            </a></li><li>
+            <a href="/docs/4.1/utilities/vertical-align/">
+              Vertical align
+            </a></li><li>
+            <a href="/docs/4.1/utilities/visibility/">
+              Visibility
+            </a></li>
+        </ul>
+  </li>   
+    </ul>
+  </p>
 </div>
 
 
