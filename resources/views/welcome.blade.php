@@ -20,6 +20,19 @@
                 </div>
               </div>
           <br />
+          
+          <div class="alert alert-dismissible alert-warning">
+          <button type="button" class="close" data-dismiss="alert">&times;</button>
+           <h4 class="alert-heading">GRUPO1!</h4>
+         <p class="mb-0">Integrantes:</p>
+         <p class="mb-0">201503733 Daniel Eduardo García Paiz</p>
+         <p class="mb-0">201314285 Jorge Javier Veliz Florian</p>
+         <p class="mb-0">201513700 Christian Adolfo Real Ixcayau</p>
+         <p class="mb-0">2010221245 ERIK LEONEL FLORES PEREZ </p>
+         <p class="mb-0">201213062 Monica Raquel Calderon Muñoz </p>
+         <p class="mb-0">201403981 Luis Omar Solares Morales </p>
+        </div>
+          
           <br />
           <div class="progress">
   <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 75%"></div>
